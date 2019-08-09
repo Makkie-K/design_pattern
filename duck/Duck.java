@@ -5,7 +5,7 @@ public abstract class Duck {
 	public abstract void display();
 	
 	public void performQuack(){
-		quackBehavior.quick();
+		quackBehavior.quack();
 	}
 	
 	public void performFly(){
